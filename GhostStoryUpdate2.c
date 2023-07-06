@@ -1,7 +1,4 @@
 /*******************************************************************************************
-*   Aluno: Arthur Emanuel De Sales Ferreira
-*   ABI - Ciencia da Computação
-*
 *   Projeto de jogo A ghost story
 *   Jogo baseado no minigame "Mall of the Spook", do jogo Spooky's House Of Jumpscares
 *
